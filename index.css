@@ -1,0 +1,47 @@
+*{
+  margin:0;
+  box-sizing: border-box;
+  -moz-osx-font-smoothing:grayscale;
+  -webkit-font-smoothing:antialiased;
+}
+
+body{
+  background-image: url(https://i.ibb.co/C5My21r/background-image.jpg);        
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding: 160px;
+  height: 100vh;
+}
+h1{
+  font-family: 'Beth Ellen';
+  size: 64px;
+  color: #ebf1fb;
+  line-height: 120px;
+}
+h1 spam{
+  color: #5eead4;
+}
+h3{
+  font-family: 'spectral';
+  size: 24px;
+  padding-bottom: 60px;
+  color: #EBF1FB;
+}
+.btn-recipes{
+  border-radius: 8px;
+  background-color: #5eead4;
+  padding: 16px 32px;
+  margin-left: 30px;
+  size: 24px;
+  color: #0B0C0E;
+  font-style: normal;
+  text-decoration: none;
+}
+.btn-learn{
+  size: 24px;
+  color: #EBF1FB;
+  font-family: 'spectral';
+
+}
